@@ -1,0 +1,8 @@
+**/jobInfo.properties
+.JETEmitters/
+.Java/
+.metadata/
+SHIFUMIX_SALES/code/routines/system/*.*
+SHIFUMIX_SALES/temp/
+SHIFUMIX_SALES/sqlPatterns/
+SHIFUMIX_SALES/talend.project
