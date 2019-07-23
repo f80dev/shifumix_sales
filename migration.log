@@ -1,0 +1,14 @@
+ * Task [Fix a problem of project resources linked to items] : Applied successfully
+ * Task [GenerateJobPomMigrationTask] : Nothing to do
+ * Task [CheckS3AccessibilityMigrationTask] : Nothing to do
+ * Task [DecrementLimitTFileInputDelimitedTDI32185] : Nothing to do
+ * Task [SetTrustAllCertsLdapComponentsTDI41648] : Nothing to do
+ * Task [RedshiftLogFileMigrationTask] : Nothing to do
+ * Task [ResetAdditionalJDBCParamsForCreateTable] : Nothing to do
+ * Task [SafelyCreateTemporaryFileMigrationTask] : Nothing to do
+ * Task [MigrateTDataMaskingGuiTDQ16376] : Nothing to do
+ * Task [RenameSalesforceWaveMigrationTask] : Nothing to do
+ * Task [CleanCustomerMatcherField] : Nothing to do
+ * Task [RenameTCOMPCouchbaseMigrationTask] : Nothing to do
+ * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
+ ---=== End of migration ===---
